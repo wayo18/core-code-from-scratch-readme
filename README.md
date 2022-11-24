@@ -51,8 +51,8 @@ Los ingredientes para utilizar son: masa ya hecha, salsa de tomate, mezcla de qu
     o	Usa la formula F(C=9/5)+32
 
     o	Imprime el resultado en Fahrenheit
-
-o	Fin
+    
+    FIN
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 3) Geometría:
 
